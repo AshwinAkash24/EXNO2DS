@@ -1,4 +1,4 @@
-# EXNO2DS- EDA Analysis Using Pyhton
+# EXNO:2 DS- EDA Analysis Using Pyhton
 ## Name: Ashwin Akash M
 ## Register Number : 212223230024
 ## Department : Artificial Intelligence And Data Science
@@ -26,6 +26,8 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
+### Colab Link:
+https://colab.research.google.com/drive/12c6m3peqMZ7KdOOjM9odD_yZS-LeVWaJ?usp=sharing
 ```
 import numpy as np
 import pandas as pd
