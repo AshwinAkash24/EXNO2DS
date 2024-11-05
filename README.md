@@ -1,6 +1,7 @@
 # EXNO:2 DS- EDA Analysis Using Pyhton
 ## Name: Ashwin Akash M
 ## Register Number : 212223230024
+## Date :
 ## Department : Artificial Intelligence And Data Science
 # AIM:
 To perform Exploratory Data Analysis on the given data set.
